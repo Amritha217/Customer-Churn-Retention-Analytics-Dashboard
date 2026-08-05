@@ -139,6 +139,3 @@ YoY Revenue Growth % =
 
 
 
-
-**[Your Name]**
-[LinkedIn] | [Email] | [Portfolio]
